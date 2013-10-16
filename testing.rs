@@ -5,6 +5,6 @@ fn this_tests_code() {
 }
 
 #[test]
-fn this_tests_code() {
+fn this_tests_code_for_test() {
 	fail!("Fail!");
 }
