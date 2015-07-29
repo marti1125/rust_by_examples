@@ -1,6 +1,6 @@
 ##Learning Rust
 
-Using Rust $ rustc 1.0.0-nightly (c9b03c24e 2015-03-12) (built 2015-03-13)
+Using Rust $ rustc 1.1.0 (35ceea399 2015-06-19)
 
 * Create a new project
     * $ cargo new hello_world --bin
@@ -8,3 +8,5 @@ Using Rust $ rustc 1.0.0-nightly (c9b03c24e 2015-03-12) (built 2015-03-13)
     * $ cargo build
 * Release
     * $ cargo build --release
+
+[Rust language support in Atom](https://github.com/zargony/atom-language-rust)
