@@ -1,0 +1,8 @@
+[package]
+name = "embeber"
+version = "0.1.0"
+authors = ["Willy Aguirre <marti1125@gmail.com>"]
+
+[lib]
+name = "embeber"
+crate-type = ["dylib"]
